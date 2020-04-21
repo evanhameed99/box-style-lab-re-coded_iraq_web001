@@ -33,7 +33,7 @@ h4 {
   background:linear-gradient( to right,#000,#fff);
 
 }
-.amiable h4{
+h4.amiable {
 
     background:linear-gradient( to right,#000,#fff);
 }
